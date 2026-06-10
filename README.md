@@ -58,7 +58,7 @@ For Gmail use an **App Password** (not your account password).
 ![Homepage](screenshots/home.jpeg)
 ![Dashboard](screenshots/dashboard.jpeg)
 ![Test Page](screenshots/test.jpeg)
-![Results Page](screenshots/shotsnapp-1781079481.727.jpeg)
+![Results Page](screenshots/result.jpeg)
 
 ## Folder Structure
 
